@@ -1,0 +1,11 @@
+name: StickTp
+version: '${project.version}'
+main: sticktp.sticktp.StickTp
+api-version: 1.19
+authors: [ wynnu ]
+description: Wyn's stick tp plugin
+commands:
+  magicstick:
+    description: gives you a magic stick
+    usage: /<command>
+    permission: yourplugin.yourcommandpermission
